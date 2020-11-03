@@ -1,5 +1,5 @@
 <?php
 
-incude_once("index.html");
+incude_once("home.html");
 
 ?>
